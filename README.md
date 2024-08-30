@@ -39,7 +39,7 @@ Adoraria saber o que você achou do **Aumigo** e como eu implementei suas funcio
    
 # OU
 
-1. Apenas baixe e execute o arquivo [cp1-veterinaria.jar](https://github.com/tavares-fiap/vet-clinic-manager/tree/main/dist/cp1-veterinaria.jar)
+1. Se você quiser apenas testar o software, baixe e execute o arquivo "cp1-veterinaria.jar" localizado na pasta [dist](https://github.com/tavares-fiap/vet-clinic-manager/tree/main/dist)
 
 
 ## 🔗 Links Importantes
