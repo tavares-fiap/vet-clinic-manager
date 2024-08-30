@@ -31,7 +31,15 @@ Adoraria saber o que você achou do **Aumigo** e como eu implementei suas funcio
 
 ## 📂 Como Executar o Projeto
 
-1. Baixe e execute o arquivo "cp1-veterinaria.jar"
+1. **Clone o repositório** para sua máquina local:
+   ```bash
+   git clone https://github.com/tavares-fiap/vet-clinic-manager.git
+2. Importe o projeto em sua IDE.
+3. Compile e execute o arquivo Main.java para iniciar o software.
+   
+# OU
+
+1. Apenas baixe e execute o arquivo [cp1-veterinaria.jar](https://github.com/tavares-fiap/vet-clinic-manager/tree/main/dist/cp1-veterinaria.jar)
 
 
 ## 🔗 Links Importantes
