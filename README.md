@@ -37,7 +37,7 @@ Adoraria saber o que você achou do **Aumigo** e como eu implementei suas funcio
 2. Importe o projeto em sua IDE.
 3. Compile e execute o arquivo Main.java para iniciar o software.
    
-# OU
+### OU
 
 1. Se você quiser apenas testar o software, baixe e execute o arquivo "cp1-veterinaria.jar" localizado na pasta [dist](https://github.com/tavares-fiap/vet-clinic-manager/tree/main/dist)
 
